@@ -1,13 +1,12 @@
 {
   "name": "javascript-introduction",
   "version": "1.0.0",
-  "description": "## 講座補足資料",
-  "private": true,
+  "description": "JavaScript 入門",
   "scripts": {
     "start": "browser-sync start --server src --port 49400"
   },
   "keywords": [],
-  "author": "kato83 <katomeganeb83@gmail.com> (https://pu10g.com/)",
+  "author": "kato83 <yuki@kato83.com> (https://pu10g.com/)",
   "license": "CC-BY-4.0",
   "devDependencies": {
     "browser-sync": "^3.0.2"
