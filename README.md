@@ -2,7 +2,7 @@
 
 ## 講座補足資料
 
-[Wiki ページ](https://github.com/kato83/javascript-introduction/wiki) を参照してください。
+**[Wiki ページ](https://github.com/kato83/javascript-introduction/wiki) を参照してください。**
 
 ## 開発環境構築
 
