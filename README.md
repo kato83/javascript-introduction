@@ -1,6 +1,6 @@
 # JavaScript 入門
 
-## 補足資料
+## 講座補足資料
 
 [Wiki ページ](https://github.com/kato83/javascript-introduction/wiki) を参照してください。
 
@@ -13,7 +13,7 @@ Windows PowerShell に以下コマンドを入力して Node.js をインスト�
 > [!TIP]
 > `node -v` コマンドを叩いて **v18以降かつ長期サポート (LTS)** のNode.jsがPC上で動作するようにします。  
 > 既にインストールされている場合は作業をスキップして問題ありません。  
-> v18未満のバージョンが入っている場合はサポートが切れているので再インストールを実施してください。
+> 2024-01-27時点でv18未満のバージョンが入っている場合はサポートが切れているので再インストールを実施してください。
 
 ```
 > winget install "Node.js LTS"
@@ -74,3 +74,16 @@ Windows PowerShell に以下コマンドを入力して Node.js をインスト�
 ```
 
 </details>
+
+### Google Chrome のインストール
+
+入っていると思いますが [Google Chrome - Google の高速で安全なブラウザをダウンロード](https://www.google.com/intl/ja_jp/chrome/) からダウンロード及びインストールが可能です。
+
+### 開発資材のダウンロード
+
+以下画像を参考にZIPファイルをダウンロードしてください。
+
+![Gitリポジトリの Code を押下し Download ZIP をクリックして開発資材をダウンロード](.common/2024-01-27_23h52_14.png)
+
+ダウンロードしたZIPファイルは任意の場所に解凍してください。  
+解凍したファイルが今後授業でプログラミングを実施する作業フォルダになります。
