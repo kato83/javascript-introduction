@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "JavaScript 入門",
   "scripts": {
-    "start": "browser-sync start --server src --port 49400"
+    "start": "browser-sync start --server src --port 49400",
+    "nc": "nc -l"
   },
   "keywords": [],
   "author": "kato83 <yuki@kato83.com> (https://pu10g.com/)",
   "license": "CC-BY-4.0",
   "devDependencies": {
-    "browser-sync": "^3.0.2"
+    "browser-sync": "^3.0.2",
+    "nc": "^1.0.3"
   }
 }
